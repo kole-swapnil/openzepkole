@@ -1,0 +1,22 @@
+{
+  "name": "openzepkole",
+  "version": "1.0.4",
+  "description": "Some changes to solidity librarie in collab with SuperWorld",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kole-swapnil/openzeppelin-contracts.git"
+  },
+  "author": "Swapnil Kole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kole-swapnil/openzeppelin-contracts/issues"
+  },
+  "homepage": "https://github.com/kole-swapnil/openzeppelin-contracts#readme",
+  "dependencies": {
+    "openzepkole": "^1.0.1"
+  }
+}

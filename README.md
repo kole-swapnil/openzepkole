@@ -1,12 +1,12 @@
 # openzepkole
-__created by Swapnil Kole - Blockchain Team Lead at Superworld__
+__created by Swapnil Kole
 
 
 
 
 **A library for secure smart contract development.** Build on a solid foundation of community-vetted code.
 
-A fork from the openzeppelin library made in collaboration with superworld. 
+A fork from the openzeppelin library.
 
 
 #### Install process
